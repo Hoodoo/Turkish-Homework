@@ -188,6 +188,8 @@
 	  görecek film kötü
 	  То же самое касается аориста
 	- TÖMER nedir?
+	- 'Karşıdan karşıya geçmeden önce sağıma soluma bakıyorum' ne demek?
+	  
 **** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
 ***** Numara 37
 
@@ -226,6 +228,83 @@
 | 24 | Yemek yapmadan önce ellerimizi yıkıyoruz                      |
 
 ***** Numara 38
+
+      |  1 | - Uyumadan önce kitap okuyor musunuz?                                          |
+      |    | - Evet, uyumadan önce kitap okuyorum                                           |
+      |  2 | - Yabancı bir ülkeye gitmeden önce o ülke hakkında  araştırma yapıyor musunuz? |
+      |    | - Evet, yabancı bir ülkeye gitmeden önce o ülke hakkında araştırma yapıyorum   |
+      |  3 | - TÖMER'den çıktıktan sonra neler yapıyorsunuz?                                |
+      |    | - TÖMER'den çıktıktan sonra restorana gidiyorum                                |
+      |  4 | - Tatile çıktıktan sonra neler yapıyorsunuz?                                   |
+      |    | - Tatile çıktıktan sonra işe devam ediyorum                                    |
+      |  5 | - Sınava girmeden önce heyecanlanıyor musunuz?                                 |
+      |    | - Hayır, sınava girmeden önce heyecanlanmıyorum                                |
+      |  6 | - Partiye gitmeden önce neler yapıyorsunuz?                                    |
+      |    | - Partiye gitmeden önce giyiniyorum                                            |
+      |  7 | - Aşık olduktan sonra nasıl hissediyorsunuz?                                   |
+      |    | - Aşık olduktan sonra çok iyiyim!                                              |
+      |  8 | - Evinize misafir gelmeden önce kek yapıyor musunuz?                           |
+      |    | - Hayır, evimize misafir gelmeden önce şarap alıyoruz                          |
+      |  9 | - Hasta olduktan sonra ne yapıyorsunuz?                                        |
+      |    | - Hasta olduktan sonra eve kalıyoruz                                           |
+      | 10 | - Evenize gitmeden önce neler yapıyorsunuz?                                    |
+      |    | - Evenize gitmeden önce herkese hoşça kalın diyorum                            |
+      | 11 | - Duygusal bir film seyrettikten sonra ağlıyor musunuz?                        |
+      |    | - Hayır, duygusal bir film seyrettikten sonra ağlamıyorum                      |
+      | 12 | - Eski sevgilinizle ayrıldıktan sonra da görüşüyor musunuz?                    |
+      |    | - Hayır, eski sevgilimizle ayrıldıktan sonra görüşmüyoruz                      |
+
+      
+***** Numara 39
+
+      |  1 | Kahvaltıdan sonra ellerimi yıkıyorum                   |
+      |  2 | Her gün saat 9.00'dan 13.00'e kadar Türkçe öğreniyorum |
+      |  3 | Öğretmenimizden önce sınfa giriyorum                   |
+      |  4 | Filmden iki saat önce bilet alıyoruz                   |
+      |  5 | Yarına kadar işlerim azalıyor                          |
+      |  6 | Öğrenciler dersten sonra kafeteryada çay içiyor        |
+      |  7 | Hazırandan sonra ülkene dönüyor                        |
+      |  8 | Cumaya kadar tatil                                     |
+      |  9 | Ayşe dersten sonra eve gidiyorr mu?                    |
+      | 10 | Sinemadan sonra nereye gidiyorsunuz?                   |
+      | 11 | İlkabahardan sonra yaz geliyor                         |
+      | 12 | Şubattan sonra mart var                                |
+      | 13 | Yemekten sonra televizyon seyrediyor                   |
+      | 14 | Amerikadan önce İngliletere'ye gidiyorsunuz            |
+      | 15 | TÖMER'de dersler saat dörtten sonra bitiyor            |
+      | 16 | Akşamları herkesten sonra ben yatıyorum                |
+      | 17 | Herkeşten sonra ödevimi bitiriyorum                    |
+      | 18 | Okuldan sonra eve yürüyerek geliyorum                  |
+      | 19 | İstanbul'dan Ankara'ya uçakla geliyorum                |
+      | 20 | Cemil 10 Şubattan 10 Mayısa kadar İstanbul'da kalıyor  |
+      | 21 | Saat ikiden üçe kadar çalışıyor                        |
+      | 22 | Sabahtan akşama kadar çalışıyor                        |
+      | 23 | Pencereden duvara kadar kaç metre?                     |
+      | 24 | Arzu'yla otobüste evden okula kadar konuşuyoruz        |
+
+***** Numara 40
+
+      |  1 | Biz oğulumla sabahtan akşama kadar bisiklete biniyoruz |
+      |  2 | Biz Türkler yemekten sonra çay yada kahve içeriz       |
+      |  3 | Seyahate çikmadan önce bavulumu hazırlıyorum           |
+      |  4 | Ameliyattan önce kan testleri yapiyorlar               |
+      |  5 | Karşıdan karşıya geçmeden önce sağıma soluma bakıyorum |
+      |  7 | Aralıktan Marta kadar kış mevsimini yaşıyoruz          |
+      |  8 | Alışverişten önce bir liste hazırlıyorum               |
+      |  9 | Alışverişe çıkmeden önce bir liste hazırlıyorum        |
+      | 10 | Kahvaltıdan sonra süt içiyorum                         |
+      | 11 | Dersten on dakika önçe sınıfta oluyorum                |
+      | 12 | Biz sabahtan akşama katar bisiklete biniyoruz          |
+      | 13 | Her gün Kızılaya kadar yürüyorum                       |
+      | 14 | Pazartesiden sonra salı geliyor                        |
+      | 15 | Ben bu dersten sonra eve gidiyorum                     |
+      | 16 | Memurlar saat 9.00'den 18.00'a kadar çalışıyor         |
+      | 17 | Kadınlar makyajdan sonra çok değişiyor                 |
+      | 18 | Alışverişten önce bankadan para cekiyorum              |
+      | 19 | Spordan sonra duş alıyoruz                             |
+      | 20 | Hazırandan ağustosa kadar Türkiye'deyim                |
+      | 21 | Ankara'da metro Batıkent'e kadar gidiyor               |
+      | 22 | Projeyi bitirmek için yarına kadar vaktim var          |
 
 *** Okuma ödevi
 **** Yeni Hitit Ders Kitabı, Sayfa 50
