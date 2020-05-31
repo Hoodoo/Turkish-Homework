@@ -174,12 +174,16 @@
 
        Согласно [[https://www.jlls.org/index.php/jlls/article/view/352/214][исследованию]] M. Kanık, опубликовнному в Journal of Language and Linuguistic Studies за 2015 год, в котором было проанализировано употребление geniş zaman и şimdiki zaman в турецком, два наиболее частых случая использования аориста в разговорном турецком — это описание предположений и обещаний (любопытно, что речь идёт о событиях в будущем). Эти случаи покрывают 56% использования geniş zaman. Вместе с тем, 63% всех случаев использования şimdiki zaman лучше всего переводятся на английский (другой язык с развитой системой времён) с помощью present simple. Это показывает, что прямой перевод времён в одном языке на времена в другом языке невозможен (кто бы сомневался).
 
+***** Контекст: отглагольные имена в турецком языке
+      Именная форма — форма глагола, имеющая глагольный корень, но при этом выступающая в предложении подлежащим или дополнениями: okuma, giriş, çıkış
 ***** -dıktan sonra, -madan önce
-      Таким образом, формы /-dıktan sonra/ и /-madan önce/ — это формы герундия времени
+      Таким образом, формы /-dıktan sonra/ и /-madan önce/ — это формы герундия времениnnnn
       *-dıktan sonra* означает "после того как"
       *-madan önce* означает "перед тем как"
 
       Связаные с этим предлоги — önce, sonra, kadar. Önce, sonra требуют суффикс исходного падежа (ayrılma hali). Kadar требует суффикс местного падежа (bulunma hali)
+
+      Очень похоже на то, что -dıktan и -madan — это некие отглагольные формы. Например -dık-tan похоже на причастие, a -ma-dan — на отглагольное имя.
 ***** Вопросы
       - я кажется понимаю /madan/: yazmak — писать, yazma — письмо как процесс, писание, yazmadan önce — перед письмом. Точно так же как работает işten önce kahvaltı yapıyorum. Что происходит в dikten sonra? Кажется, dik это суффикс, он также используется в /diği sırada/
 	- /dığı gibi/ — büyük gemi olduğu gibi battı — что это вообще значит?
@@ -189,7 +193,7 @@
 	  То же самое касается аориста
 	- TÖMER nedir?
 	- 'Karşıdan karşıya geçmeden önce sağıma soluma bakıyorum' ne demek?
-	  
+	- Ilkokul ne demek? После начальной школы в консерваторию? Это начальная или средняя школа?
 **** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
 ***** Numara 37
 
@@ -254,7 +258,6 @@
       | 12 | - Eski sevgilinizle ayrıldıktan sonra da görüşüyor musunuz?                    |
       |    | - Hayır, eski sevgilimizle ayrıldıktan sonra görüşmüyoruz                      |
 
-      
 ***** Numara 39
 
       |  1 | Kahvaltıdan sonra ellerimi yıkıyorum                   |
@@ -308,7 +311,7 @@
 
 *** Okuma ödevi
 **** Yeni Hitit Ders Kitabı, Sayfa 50
-        Maddi
+   Maddi
    Gecirmek
    Geçirmek
    Işi bırakmak
@@ -319,6 +322,40 @@
    okuduk
    mesela
    araştırmak
+
+   *Yıldız Kenter*
+
+   | Bin dokuz yüz yirmi sekiz yılında İstanbul'da doğdum.               | Я родилась в Стамбуле в 1928 году.                                              |
+   | Babam Naci Bey diplomattı.                                          | Мой отец, Наджи Бей, был дипломатом.                                            |
+   | Maddi durumumuz kötüydü ama masal gibi bir çocukluk geçirdim.       | Наше материальное положение было плохим, но у меня было сказочное детство.      |
+   | Babam işinden ayrıldıktan sonra Ankara'ya taşındık ve               | После того, как мой отец оставил работу, мы переехали в Анкару и                |
+   | ilkokula Ankara'da devam ettim.                                     | там я продолжила ходить в начальную школу.                                      |
+   |                                                                     |                                                                                 |
+   | Tiyatroya da Ankara Çocuk Kulübü'nde başladım.                      | Я также начала выступать в театре Детского Клуба в Анкаре.                      |
+   | Çocukluk yıllarımadaki en büyük mutluluğum tiyatroydu.              | Самой большой радостью моих детских лет был театр.                              |
+   | Aile yaşamımızda insana ait komik ve trajik durumları öğreniyordum. | Из жизни нашей семьи я научилась трагическим и комическим ситуациям.            |
+   | İlkokuldan sonra Ankara Devlet Konservatuarı'na kayıt yaptırdım.    | После начальной школы я поступила в государственную консерваторию в Анкаре.     |
+   | Çok başarılı bir öğrenciydim.                                       | Я была очень успешной(?) ученицей.                                              |
+   | Beş yıllık konservatuarı dört yılda bitirdim.                       | Пятилетний курс консерватории я окончила за четыре года.                        |
+   | Profesyonel tiyatro hayatım bin dokuz yüz kırk sekiz'de başladı.    | Моя профессиональная театральная карьера началась в 1948 году.                  |
+   | İlk oyunum Shakespeare'in "Onikinci gece" aldı oyunuydu.            | Моей первой пьесой стала "Двенадцатая ночь" Шекспира.                           |
+   |                                                                     |                                                                                 |
+   | Bin dokuz yüz elli dokuz yılında kardeşim Müşfik Kenter ile         | В 1959 я со своим братом Мюшфиком Кентером отправилась в Стамбул.               |
+   | İstanbul'a gittim.                                                  |                                                                                 |
+   | Bir yıl sonra birlikte "Kent Oyucanları Topluluğu"nu kurduk.        | Годом позже, мы основали "городскую актёрскую группу".                          |
+   | Sonraki yıllarda Amerika Birleşik Devletleri ve                     | В следующие годы, я изучала и преподавала актёрское мастерство в Великобритании |
+   | İngilitere'de eğitim ve oyunculuk üzerine çalışmalar yaptım.        | и США.                                                                          |
+   |                                                                     |                                                                                 |
+   | Bugüne kadar yüzden fazla oyunda yer aldım.                         | К сегодняшнему дню, я играла роли более чем в ста пьесах.                       |
+   | Bu oyunlarda değişik acılar, heyecanlar, ve aşklar yaşadım.         | Благодаря этим пьесам, я переживала боль, вдохновение и любовь.                 |
+   | Zaman zaman sinema filmlerinde de rol aldım.                        | Иногда, я также снималась и в кино.                                             |
+   | Sinema oyuncusu olarak üç kez "Altın Portakal" ödülü aldım.         | За роли в кино, я получила три награды "Золотой апельсин".                      |
+   | Bin dokuz yüz altmış ikide "Yılın Kadın" seçildim.                  | В 1962 году я стала женщиной года.                                              |
+   | Bin dokuz yüz seksen birde devlet sanatçısı oldum.                  | В 1980 году я стала народным артистом (?)                                       |
+   |                                                                     |                                                                                 |
+   | Bana göre tiyatro ile ilgilenmek dünyadan ortasında durmak demekti. | Для меня, работа в театре значила целый мир (?)                                 |
+   | Her şeyimi mesleğime verdim.                                        | Своей профессии я отдала всю себя.                                              |
+   | Yaşamak benim için her zaman mücadele etmek oldu.                   | Жизнь для меня всегда была борьбой.                                             |
 
 *** Dinleme ödevi
 **** TTT #54

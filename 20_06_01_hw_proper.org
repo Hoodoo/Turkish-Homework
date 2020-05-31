@@ -1,5 +1,5 @@
-**** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
-***** Numara 37
+** Gramer ödevi
+*** Numara 37
 
 |  1 | Spordan sonra duş alıyorum                                    |
 |    | Spor yaptıkten sonra duş alıyorum                             |
@@ -35,81 +35,116 @@
 | 23 | Kontör aldıktan sonra telefona konuşuyoruz                    |
 | 24 | Yemek yapmadan önce ellerimizi yıkıyoruz                      |
 
-***** Numara 38
+*** Numara 38
 
-      |  1 | - Uyumadan önce kitap okuyor musunuz?                                          |
-      |    | - Evet, uyumadan önce kitap okuyorum                                           |
-      |  2 | - Yabancı bir ülkeye gitmeden önce o ülke hakkında  araştırma yapıyor musunuz? |
-      |    | - Evet, yabancı bir ülkeye gitmeden önce o ülke hakkında araştırma yapıyorum   |
-      |  3 | - TÖMER'den çıktıktan sonra neler yapıyorsunuz?                                |
-      |    | - TÖMER'den çıktıktan sonra restorana gidiyorum                                |
-      |  4 | - Tatile çıktıktan sonra neler yapıyorsunuz?                                   |
-      |    | - Tatile çıktıktan sonra işe devam ediyorum                                    |
-      |  5 | - Sınava girmeden önce heyecanlanıyor musunuz?                                 |
-      |    | - Hayır, sınava girmeden önce heyecanlanmıyorum                                |
-      |  6 | - Partiye gitmeden önce neler yapıyorsunuz?                                    |
-      |    | - Partiye gitmeden önce giyiniyorum                                            |
-      |  7 | - Aşık olduktan sonra nasıl hissediyorsunuz?                                   |
-      |    | - Aşık olduktan sonra çok iyiyim!                                              |
-      |  8 | - Evinize misafir gelmeden önce kek yapıyor musunuz?                           |
-      |    | - Hayır, evimize misafir gelmeden önce şarap alıyoruz                          |
-      |  9 | - Hasta olduktan sonra ne yapıyorsunuz?                                        |
-      |    | - Hasta olduktan sonra eve kalıyoruz                                           |
-      | 10 | - Evenize gitmeden önce neler yapıyorsunuz?                                    |
-      |    | - Evenize gitmeden önce herkese hoşça kalın diyorum                            |
-      | 11 | - Duygusal bir film seyrettikten sonra ağlıyor musunuz?                        |
-      |    | - Hayır, duygusal bir film seyrettikten sonra ağlamıyorum                      |
-      | 12 | - Eski sevgilinizle ayrıldıktan sonra da görüşüyor musunuz?                    |
-      |    | - Hayır, eski sevgilimizle ayrıldıktan sonra görüşmüyoruz                      |
+    |  1 | - Uyumadan önce kitap okuyor musunuz?                                          |
+    |    | - Evet, uyumadan önce kitap okuyorum                                           |
+    |  2 | - Yabancı bir ülkeye gitmeden önce o ülke hakkında  araştırma yapıyor musunuz? |
+    |    | - Evet, yabancı bir ülkeye gitmeden önce o ülke hakkında araştırma yapıyorum   |
+    |  3 | - TÖMER'den çıktıktan sonra neler yapıyorsunuz?                                |
+    |    | - TÖMER'den çıktıktan sonra restorana gidiyorum                                |
+    |  4 | - Tatile çıktıktan sonra neler yapıyorsunuz?                                   |
+    |    | - Tatile çıktıktan sonra işe devam ediyorum                                    |
+    |  5 | - Sınava girmeden önce heyecanlanıyor musunuz?                                 |
+    |    | - Hayır, sınava girmeden önce heyecanlanmıyorum                                |
+    |  6 | - Partiye gitmeden önce neler yapıyorsunuz?                                    |
+    |    | - Partiye gitmeden önce giyiniyorum                                            |
+    |  7 | - Aşık olduktan sonra nasıl hissediyorsunuz?                                   |
+    |    | - Aşık olduktan sonra çok iyiyim!                                              |
+    |  8 | - Evinize misafir gelmeden önce kek yapıyor musunuz?                           |
+    |    | - Hayır, evimize misafir gelmeden önce şarap alıyoruz                          |
+    |  9 | - Hasta olduktan sonra ne yapıyorsunuz?                                        |
+    |    | - Hasta olduktan sonra eve kalıyoruz                                           |
+    | 10 | - Evenize gitmeden önce neler yapıyorsunuz?                                    |
+    |    | - Evenize gitmeden önce herkese hoşça kalın diyorum                            |
+    | 11 | - Duygusal bir film seyrettikten sonra ağlıyor musunuz?                        |
+    |    | - Hayır, duygusal bir film seyrettikten sonra ağlamıyorum                      |
+    | 12 | - Eski sevgilinizle ayrıldıktan sonra da görüşüyor musunuz?                    |
+    |    | - Hayır, eski sevgilimizle ayrıldıktan sonra görüşmüyoruz                      |
 
-      
-***** Numara 39
+*** Numara 39
 
-      |  1 | Kahvaltıdan sonra ellerimi yıkıyorum                   |
-      |  2 | Her gün saat 9.00'dan 13.00'e kadar Türkçe öğreniyorum |
-      |  3 | Öğretmenimizden önce sınfa giriyorum                   |
-      |  4 | Filmden iki saat önce bilet alıyoruz                   |
-      |  5 | Yarına kadar işlerim azalıyor                          |
-      |  6 | Öğrenciler dersten sonra kafeteryada çay içiyor        |
-      |  7 | Hazırandan sonra ülkene dönüyor                        |
-      |  8 | Cumaya kadar tatil                                     |
-      |  9 | Ayşe dersten sonra eve gidiyorr mu?                    |
-      | 10 | Sinemadan sonra nereye gidiyorsunuz?                   |
-      | 11 | İlkabahardan sonra yaz geliyor                         |
-      | 12 | Şubattan sonra mart var                                |
-      | 13 | Yemekten sonra televizyon seyrediyor                   |
-      | 14 | Amerikadan önce İngliletere'ye gidiyorsunuz            |
-      | 15 | TÖMER'de dersler saat dörtten sonra bitiyor            |
-      | 16 | Akşamları herkesten sonra ben yatıyorum                |
-      | 17 | Herkeşten sonra ödevimi bitiriyorum                    |
-      | 18 | Okuldan sonra eve yürüyerek geliyorum                  |
-      | 19 | İstanbul'dan Ankara'ya uçakla geliyorum                |
-      | 20 | Cemil 10 Şubattan 10 Mayısa kadar İstanbul'da kalıyor  |
-      | 21 | Saat ikiden üçe kadar çalışıyor                        |
-      | 22 | Sabahtan akşama kadar çalışıyor                        |
-      | 23 | Pencereden duvara kadar kaç metre?                     |
-      | 24 | Arzu'yla otobüste evden okula kadar konuşuyoruz        |
+    |  1 | Kahvaltıdan sonra ellerimi yıkıyorum                   |
+    |  2 | Her gün saat 9.00'dan 13.00'e kadar Türkçe öğreniyorum |
+    |  3 | Öğretmenimizden önce sınfa giriyorum                   |
+    |  4 | Filmden iki saat önce bilet alıyoruz                   |
+    |  5 | Yarına kadar işlerim azalıyor                          |
+    |  6 | Öğrenciler dersten sonra kafeteryada çay içiyor        |
+    |  7 | Hazırandan sonra ülkene dönüyor                        |
+    |  8 | Cumaya kadar tatil                                     |
+    |  9 | Ayşe dersten sonra eve gidiyorr mu?                    |
+    | 10 | Sinemadan sonra nereye gidiyorsunuz?                   |
+    | 11 | İlkabahardan sonra yaz geliyor                         |
+    | 12 | Şubattan sonra mart var                                |
+    | 13 | Yemekten sonra televizyon seyrediyor                   |
+    | 14 | Amerikadan önce İngliletere'ye gidiyorsunuz            |
+    | 15 | TÖMER'de dersler saat dörtten sonra bitiyor            |
+    | 16 | Akşamları herkesten sonra ben yatıyorum                |
+    | 17 | Herkeşten sonra ödevimi bitiriyorum                    |
+    | 18 | Okuldan sonra eve yürüyerek geliyorum                  |
+    | 19 | İstanbul'dan Ankara'ya uçakla geliyorum                |
+    | 20 | Cemil 10 Şubattan 10 Mayısa kadar İstanbul'da kalıyor  |
+    | 21 | Saat ikiden üçe kadar çalışıyor                        |
+    | 22 | Sabahtan akşama kadar çalışıyor                        |
+    | 23 | Pencereden duvara kadar kaç metre?                     |
+    | 24 | Arzu'yla otobüste evden okula kadar konuşuyoruz        |
 
-***** Numara 40
+*** Numara 40
 
-      |  1 | Biz oğulumla sabahtan akşama kadar bisiklete biniyoruz |
-      |  2 | Biz Türkler yemekten sonra çay yada kahve içeriz       |
-      |  3 | Seyahate çikmadan önce bavulumu hazırlıyorum           |
-      |  4 | Ameliyattan önce kan testleri yapiyorlar               |
-      |  5 | Karşıdan karşıya geçmeden önce sağıma soluma bakıyorum |
-      |  7 | Aralıktan Marta kadar kış mevsimini yaşıyoruz          |
-      |  8 | Alışverişten önce bir liste hazırlıyorum               |
-      |  9 | Alışverişe çıkmeden önce bir liste hazırlıyorum        |
-      | 10 | Kahvaltıdan sonra süt içiyorum                         |
-      | 11 | Dersten on dakika önçe sınıfta oluyorum                |
-      | 12 | Biz sabahtan akşama katar bisiklete biniyoruz          |
-      | 13 | Her gün Kızılaya kadar yürüyorum                       |
-      | 14 | Pazartesiden sonra salı geliyor                        |
-      | 15 | Ben bu dersten sonra eve gidiyorum                     |
-      | 16 | Memurlar saat 9.00'den 18.00'a kadar çalışıyor         |
-      | 17 | Kadınlar makyajdan sonra çok değişiyor                 |
-      | 18 | Alışverişten önce bankadan para cekiyorum              |
-      | 19 | Spordan sonra duş alıyoruz                             |
-      | 20 | Hazırandan ağustosa kadar Türkiye'deyim                |
-      | 21 | Ankara'da metro Batıkent'e kadar gidiyor               |
-      | 22 | Projeyi bitirmek için yarına kadar vaktim var          |
+    |  1 | Biz oğulumla sabahtan akşama kadar bisiklete biniyoruz |
+    |  2 | Biz Türkler yemekten sonra çay yada kahve içeriz       |
+    |  3 | Seyahate çikmadan önce bavulumu hazırlıyorum           |
+    |  4 | Ameliyattan önce kan testleri yapiyorlar               |
+    |  5 | Karşıdan karşıya geçmeden önce sağıma soluma bakıyorum |
+    |  7 | Aralıktan Marta kadar kış mevsimini yaşıyoruz          |
+    |  8 | Alışverişten önce bir liste hazırlıyorum               |
+    |  9 | Alışverişe çıkmeden önce bir liste hazırlıyorum        |
+    | 10 | Kahvaltıdan sonra süt içiyorum                         |
+    | 11 | Dersten on dakika önçe sınıfta oluyorum                |
+    | 12 | Biz sabahtan akşama katar bisiklete biniyoruz          |
+    | 13 | Her gün Kızılaya kadar yürüyorum                       |
+    | 14 | Pazartesiden sonra salı geliyor                        |
+    | 15 | Ben bu dersten sonra eve gidiyorum                     |
+    | 16 | Memurlar saat 9.00'den 18.00'a kadar çalışıyor         |
+    | 17 | Kadınlar makyajdan sonra çok değişiyor                 |
+    | 18 | Alışverişten önce bankadan para cekiyorum              |
+    | 19 | Spordan sonra duş alıyoruz                             |
+    | 20 | Hazırandan ağustosa kadar Türkiye'deyim                |
+    | 21 | Ankara'da metro Batıkent'e kadar gidiyor               |
+    | 22 | Projeyi bitirmek için yarına kadar vaktim var          |
+
+** Okuma ödevi    
+
+   *Yıldız Kenter*
+
+ | Bin dokuz yüz yirmi sekiz yılında İstanbul'da doğdum.               | Я родилась в Стамбуле в 1928 году.                                              |
+ | Babam Naci Bey diplomattı.                                          | Мой отец, Наджи Бей, был дипломатом.                                            |
+ | Maddi durumumuz kötüydü ama masal gibi bir çocukluk geçirdim.       | Наше материальное положение было плохим, но у меня было сказочное детство.      |
+ | Babam işinden ayrıldıktan sonra Ankara'ya taşındık ve               | После того, как мой отец оставил работу, мы переехали в Анкару и                |
+ | ilkokula Ankara'da devam ettim.                                     | там я продолжила ходить в начальную школу.                                      |
+ |                                                                     |                                                                                 |
+ | Tiyatroya da Ankara Çocuk Kulübü'nde başladım.                      | Я также начала выступать в театре Детского Клуба в Анкаре.                      |
+ | Çocukluk yıllarımadaki en büyük mutluluğum tiyatroydu.              | Самой большой радостью моих детских лет был театр.                              |
+ | Aile yaşamımızda insana ait komik ve trajik durumları öğreniyordum. | Из жизни нашей семьи я научилась трагическим и комическим ситуациям.            |
+ | İlkokuldan sonra Ankara Devlet Konservatuarı'na kayıt yaptırdım.    | После начальной школы я поступила в государственную консерваторию в Анкаре.     |
+ | Çok başarılı bir öğrenciydim.                                       | Я была очень успешной(?) ученицей.                                              |
+ | Beş yıllık konservatuarı dört yılda bitirdim.                       | Пятилетний курс консерватории я окончила за четыре года.                        |
+ | Profesyonel tiyatro hayatım bin dokuz yüz kırk sekiz'de başladı.    | Моя профессиональная театральная карьера началась в 1948 году.                  |
+ | İlk oyunum Shakespeare'in "Onikinci gece" aldı oyunuydu.            | Моей первой пьесой стала "Двенадцатая ночь" Шекспира.                           |
+ |                                                                     |                                                                                 |
+ | Bin dokuz yüz elli dokuz yılında kardeşim Müşfik Kenter ile         | В 1959 я со своим братом Мюшфиком Кентером отправилась в Стамбул.               |
+ | İstanbul'a gittim.                                                  |                                                                                 |
+ | Bir yıl sonra birlikte "Kent Oyucanları Topluluğu"nu kurduk.        | Годом позже, мы основали "городскую актёрскую группу".                          |
+ | Sonraki yıllarda Amerika Birleşik Devletleri ve                     | В следующие годы, я изучала и преподавала актёрское мастерство в Великобритании |
+ | İngilitere'de eğitim ve oyunculuk üzerine çalışmalar yaptım.        | и США.                                                                          |
+ |                                                                     |                                                                                 |
+ | Bugüne kadar yüzden fazla oyunda yer aldım.                         | К сегодняшнему дню, я играла роли более чем в ста пьесах.                       |
+ | Bu oyunlarda değişik acılar, heyecanlar, ve aşklar yaşadım.         | Благодаря этим пьесам, я переживала боль, вдохновение и любовь.                 |
+ | Zaman zaman sinema filmlerinde de rol aldım.                        | Иногда, я также снималась и в кино.                                             |
+ | Sinema oyuncusu olarak üç kez "Altın Portakal" ödülü aldım.         | За роли в кино, я получила три награды "Золотой апельсин".                      |
+ | Bin dokuz yüz altmış ikide "Yılın Kadın" seçildim.                  | В 1962 году я стала женщиной года.                                              |
+ | Bin dokuz yüz seksen birde devlet sanatçısı oldum.                  | В 1980 году я стала народным артистом (?)                                       |
+ |                                                                     |                                                                                 |
+ | Bana göre tiyatro ile ilgilenmek dünyadan ortasında durmak demekti. | Для меня, работа в театре значила целый мир (?)                                 |
+ | Her şeyimi mesleğime verdim.                                        | Своей профессии я отдала всю себя.                                              |
+ | Yaşamak benim için her zaman mücadele etmek oldu.                   | Жизнь для меня всегда была борьбой.                                             |
