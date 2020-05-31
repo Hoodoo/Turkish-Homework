@@ -73,7 +73,7 @@
       | Винительный     | Belirtme hali | Kimi? Neyi?             | Кого? Что?                | (y)İ  | kediyi, elmayı   |
       | Дательный       | Yönelme hali  | Kime? Neye?             | Кому? Чему?               | (y)A  | kediye, elmaya   |
       | Местный         | Bulunma hali  | Nerede? Kimde? Nede?    | Где? У кого? У чего?      | DA    | kedide, elmada   |
-      | Исходнй         | Ayrılma hali  | Nereden? Kimden? Neden? | Откуда? От кого? От чего? | DAn   | kediden, elmadan |
+      | Исходный        | Ayrılma hali  | Nereden? Kimden? Neden? | Откуда? От кого? От чего? | DAn   | kediden, elmadan |
       | Творительный    | Vasita hali   | Kiminle? Ne ile?        | С кем? С чем?             | lA    | kedile, elmala   |
       | Родительный     | İlgi hali     | Kimin? Neyin?           | Чей? Кого? Чего?          | (n)İn | kedinin, elmanun |
       | Образа действия | Eşitlik hali  | Kimce? Nece?            | По-чьему? Как?            | cA    | kedice, elmaca   |
@@ -190,7 +190,7 @@
 	- TÖMER nedir?
 **** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
 ***** Numara 37
-|----+---------------------------------------------------------------|
+
 |  1 | Spordan sonra duş alıyorum                                    |
 |    | Spor yaptıkten sonra duş alıyorum                             |
 |  2 | Kahvaltıdan sonra dişlerimi fırçalıyorum                      |
@@ -224,7 +224,6 @@
 | 22 | Dersten çıktıktan sonra lokantaya gidiyoruz                   |
 | 23 | Kontör aldıktan sonra telefona konuşuyoruz                    |
 | 24 | Yemek yapmadan önce ellerimizi yıkıyoruz                      |
-|----+---------------------------------------------------------------|
 
 *** Okuma ödevi
 **** Yeni Hitit Ders Kitabı, Sayfa 50
