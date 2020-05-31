@@ -127,7 +127,7 @@
 
       В повседневном использовании, şimdiki zaman, по всей видимости, постепенно замещает аорист.
 
-******  Функции аориста:
+****** Функции аориста:
 
       - Научные или моральные аксиомы, правдивость, всеобщность:
 	Dünya kendi çevresindeki dönüşünü 24 saatte tamamlar — Земля совершает оборот вокруг своей оси в 24 часа
@@ -224,6 +224,8 @@
 | 22 | Dersten çıktıktan sonra lokantaya gidiyoruz                   |
 | 23 | Kontör aldıktan sonra telefona konuşuyoruz                    |
 | 24 | Yemek yapmadan önce ellerimizi yıkıyoruz                      |
+
+***** Numara 38
 
 *** Okuma ödevi
 **** Yeni Hitit Ders Kitabı, Sayfa 50
