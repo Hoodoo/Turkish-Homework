@@ -179,8 +179,7 @@
       *-dıktan sonra* означает "после того как"
       *-madan önce* означает "перед тем как"
 
-      Связаные с этим предлоги — önce, sonra, kadar. Ónce, sonra требуют суффикс исходного падежа (ayrılma hali). Kadar требует суффикс местного падежа (bulunma hali)
-***** Yeni Hitit Ek Alıştırmalar 1 Sayfa 30-31
+      Связаные с этим предлоги — önce, sonra, kadar. Önce, sonra требуют суффикс исходного падежа (ayrılma hali). Kadar требует суффикс местного падежа (bulunma hali)
 ***** Вопросы
       - я кажется понимаю /madan/: yazmak — писать, yazma — письмо как процесс, писание, yazmadan önce — перед письмом. Точно так же как работает işten önce kahvaltı yapıyorum. Что происходит в dikten sonra? Кажется, dik это суффикс, он также используется в /diği sırada/
 	- /dığı gibi/ — büyük gemi olduğu gibi battı — что это вообще значит?
@@ -188,7 +187,45 @@
 	  O bir film görecek
 	  görecek film kötü
 	  То же самое касается аориста
+	- TÖMER nedir?
 **** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
+***** Numara 37
+|----+---------------------------------------------------------------|
+|  1 | Spordan sonra duş alıyorum                                    |
+|    | Spor yaptıkten sonra duş alıyorum                             |
+|  2 | Kahvaltıdan sonra dişlerimi fırçalıyorum                      |
+|    | Kahvaltı yaptıkten sonra dişlerimi fıçalıyorum                |
+|  3 | Yemekten sonra sigara içiyorum                                |
+|    | Yemek yedik sonra sigara içiyorum                             |
+|  4 | Flilmden önce bilet alıyoruz                                  |
+|    | Film seyretmeden önce bilet alıyoruz                          |
+|  5 | Öğrenciler sinavdan sonra parti yapıyor                       |
+|    | Öğrenciler sinav bittikten sonra parti yapıyor                |
+|  6 | Duşten sonra giyiniyorum                                      |
+|    | Duş yaptıktan sonra giyiniyorum                               |
+|  7 | Teneffüsten sonra derse devam ediyoruz                        |
+|    | Teneffüs yaptıktan sonra derse devam ediyoruz                 |
+|  8 | Sınavdan önce ders çalışıyoruz                                |
+|    | Sınava girmeden önce ders çalışıyoruz                         |
+|  9 | Tatilden önce valiz hazırlıyor                                |
+|    | Tatile gitmeden önce valiz hazırlıyor                         |
+| 10 | Ben uyumadan önce bir saat kitap okuyorum                     |
+| 11 | Ders bittikten sonra TÖMER'den cıkıyoruz                      |
+| 12 | Öğrenciler bankadan para çektikten sonra alışveriş yapıyorlar |
+| 13 | Türkçe öğrendikten sonra üniversite gidiyorum                 |
+| 14 | Yatmadan önce ışığı kaptıyorum                                |
+| 15 | Evlendikten sonra ċok iyi düşünüyorsunuz                      |
+| 16 | Zengin olduktan sonra bir ev ve bir araba alıyorum            |
+| 17 | TÖMER'den çıktıktan sonra yemek yiyoruz                       |
+| 18 | Yurt dışına gitmeden önce vize alıyoruz                       |
+| 19 | Ben ceket giydikten sonra evden çıkıyorum                     |
+| 20 | Uçağa bindikten sonra cep telefonu kapatıyoruz                |
+| 21 | İşim bittikten sonra sana yardım ediyorum                     |
+| 22 | Dersten çıktıktan sonra lokantaya gidiyoruz                   |
+| 23 | Kontör aldıktan sonra telefona konuşuyoruz                    |
+| 24 | Yemek yapmadan önce ellerimizi yıkıyoruz                      |
+|----+---------------------------------------------------------------|
+
 *** Okuma ödevi
 **** Yeni Hitit Ders Kitabı, Sayfa 50
         Maddi
