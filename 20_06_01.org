@@ -1,0 +1,116 @@
+** Понедельник, 1.06.20
+*** Gramer ödevi   
+**** Yeni Hitit 1 Ders Kitabı Sayfa 29 - "-dıktan sonra, -madan önce"
+***** Контекст: герундий в турецком языке
+      https://www.turkishaholic.com/gb-topic/gerunds/
+****** Связующий
+       Sadece bir arkadaşa bakıp çıkacağım — я только поищу своего друга и выйду
+****** Состояния
+       Ahmet eve koşarak — Ахмет добирался домой бегом
+       Müzik dinleyerek ders çalışmazsın — Слушая музыку невозможно учиться
+****** Времени
+       Это как раз тот случаей, который мы рассматриваем. Их несколько:
+       - "с тех пор как" — /li/
+	 Sen İstanbul'a gideli dört yıl oldu — прошло четыре года с тех пор как ты переехал в Стамбул
+	 Anmet evleneli bizimle hiç takımıyor — с тех пор как Ахмет женился, он больше не тусуется с нами
+       - "когда, как" /ince/inca/
+	 Eve dönünce lütfen bana mesaj at — как придёшь домой, пожалуйста, отправь мне сообщение
+       - "как только" /ir … mez/
+	 Ahmet, ofiste girir girmez işe başladı — Ахмет начал работать, как только вошёл в офис
+       - "когда в значении после окончания" /diği zaman/
+	 Kitabı okumayı bitirdiği zaman bana söyle — Скажи мне, как закончишь читать книгу
+       - "в то время как" /diği sırada/
+	 Kapı çaldığı sırada televizyon izliyordum — Когда раздался звонок в дверь, я смотрел телевизор
+       - "когда" /diğinde/
+	 Polis farkettiğinde hırsızlar soygun yapıyorlardı — Когда полиция заметила, воры совершали ограбление
+       - "пeред действием" /madan önce/
+	 Eve dönmeden önce süpermarkete uğarayalım — Перед возвращением домой, давай зайдём в супермаркет
+       - "после действия" /dikten sonra/
+	 Sadece parası bittikten sonra ailesini arar — Только когда у него закончатся деньги, он звонит семье
+       - "до тех пор" /ana kadar, ıncaya kadar/
+	 Sabrı tükenene kadar onu bekledi — Она ждала его, пока у него не кончилось терпение
+	 Bacakları ağrıncaya kadar koştu — Он бежал, пока у него не заболели ноги
+       - "если" и "когда" /dıkça, dığı sürüce/
+	 Sıkıldıça müzik dinledim — Я слушал музыку, когда мне стало скучно
+	 Sıkı çalıştığın sürece Türkçe'de başları olursun — Если ты будешь упорно учиться, у тебя будут успехи в турецком
+****** Причины
+       - "потому что" /diği için/
+	 Çok yemek yediği için karnı ağırdı — Потому что он переел, его живот болит
+       - "потому что" /diğindan/
+	 İngilizce bilmediğinden, İnglitere'de çok zorluk çekti — Оттого что он не знал английского, в англии у него возникли проблемы
+       - "потому что" /acağı için/
+	 Yurtdışına gidecekleri için para biriktiyorlar — Они копят деньги, потому что собираются поехать за границу
+       - "для того чтобы" /mak üzere/
+	 Yarışmayı kazanmak üzere hergün pratık yapıyor — Для того чтобы выиграть соревнование, она тренируетя каждый день
+       - "так как" /diğina göre/
+	 Herkes geldiğine göre artık filmi başlatabiliriz — Так как все пришли, мы можем начать фильм
+       - "так как" /acağına göre/
+	 Bu ay ilk maaşını alacağına göre ne yapacaksın? — Так как ты собираешься получить первую зарплату в этом месяце, что ты собираешься делать?
+****** Сравнительные
+       - "сколько только" /diği kadar/
+	 Çocuk yiyebildiği kadar sosisli sandviç yedi — ребёнок съел столько хот-догов, сколько мог
+       - "настолько" /açak kadar/
+	 Lütfen herkes kendine yetecek kadar alsın — Пожалуйста, все берите столько, сколько вам нужно
+       - "так как"
+	 Büyük gemi olduğu gibi battı — Большой корабль затонул как был?
+       - "до" /cesine/
+	 Adamlar birbirlerini öldürcesine kavga ettiler — Мужчины дрались до смерти
+****** Противопоставительные 
+       - "вместо" /acağina/
+	 Boş boş oturacağına bana yardım et — Вместо того чтобы сидеть, помог бы мне
+       - "несмотря на" /dığı halde/
+	 Yalnız olduğu halde sevgili istemiyor — Он не хочет ни с кем втречаться, несмотря на то что он одинок
+       - "несмотря на" /masına rağmen/
+	 Çok yorulmuş olmasına rağmen koşmaya devam etti — Несмотря на то, что он очень устал, он продолжал бежать
+       - "чем" /mektense/
+	 Evlenmektense bekar kalmayı terсih ederim — Я бы чем жениться, предпочла бы остаться одна
+***** Контекст: падежи в турецком языке
+      https://speakasap.com/ru/tr-ru/grammar/padezhi/
+      |-----------------+---------------+-------------------------+---------------------------+-------+------------------|
+      | Именительный    | Yalın hal     | Kim? Ne?                | Кто? Что?                 | --    | kedi, elma       |
+      | Винительный     | Belirtme hali | Kimi? Neyi?             | Кого? Что?                | (y)İ  | kediyi, elmayı   |
+      | Дательный       | Yönelme hali  | Kime? Neye?             | Кому? Чему?               | (y)A  | kediye, elmaya   |
+      | Местный         | Bulunma hali  | Nerede? Kimde? Nede?    | Где? У кого? У чего?      | DA    | kedide, elmada   |
+      | Исходнй         | Ayrılma hali  | Nereden? Kimden? Neden? | Откуда? От кого? От чего? | DAn   | kediden, elmadan |
+      | Творительный    | Vasita hali   | Kiminle? Ne ile?        | С кем? С чем?             | lA    | kedile, elmala   |
+      | Родительный     | İlgi hali     | Kimin? Neyin?           | Чей? Кого? Чего?          | (n)İn | kedinin, elmanun |
+      | Образа действия | Eşitlik hali  | Kimce? Nece?            | По-чьему? Как?            | cA    | kedice, elmaca   |
+      |-----------------+---------------+-------------------------+---------------------------+-------+------------------|
+***** Контекст: причастия в турецком языке
+      Причастие — самостоятельная часть речи или особая форма глагола, которая обозначает признак предмета по действию и отвечает на вопросы прилагательного.
+      В турецком различают:
+      - *An*
+      - *İr*
+      - *(y)İcİ*
+      - *Dİk*
+      - *mİş*
+      - *(y)AcAk*
+***** -dıktan sonra, -madan önce
+      Таким образом, формы /-dıktan sonra/ и /-madan önce/ — это формы герундия времени
+      *-dıktan sonra* означает "после того как"
+      *-madan önce* означает "перед тем как"
+
+      Связаные с этим предлоги — önce, sonra, kadar. Ónce, sonra требуют суффикс исходного падежа (ayrılma hali). Kadar требует суффикс местного падежа (bulunma hali)
+***** Yeni Hitit Ek Alıştırmalar 1 Sayfa 30-31
+***** Вопросы
+      - я кажется понимаю /madan/: yazmak — писать, yazma — письмо как процесс, писание, yazmadan önce — перед письмом. Точно так же как работает işten önce kahvaltı yapıyorum. Что происходит в dikten sonra? Кажется, dik это суффикс, он также используется в /diği sırada/
+	- /dığı gibi/ — büyük gemi olduğu gibi battı — что это вообще значит?
+
+
+**** Yeni Hitit Ek Alıştırmalar 1, Sayfa 30-31
+*** Okuma ödevi
+**** Yeni Hitit Ders Kitabı, Sayfa 50
+        Maddi
+   Gecirmek
+   Geçirmek
+   Işi bırakmak
+   ikokul
+   devam etmek
+   yildiz kenter
+   metin
+   okuduk
+   mesela
+   araştırmak
+
+*** Dinleme ödevi
+**** TTT #54
