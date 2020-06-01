@@ -1,3 +1,5 @@
+#+OPTIONS: \n:t
+
 ** Gramer ödevi
 *** Numara 37
 
