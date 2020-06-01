@@ -113,7 +113,7 @@
     | 21 | Ankara'da metro Batıkent'e kadar gidiyor               |
     | 22 | Projeyi bitirmek için yarına kadar vaktim var          |
 
-** Okuma ödevi    
+** Okuma ödevi
 
    *Yıldız Kenter*
 
@@ -148,3 +148,24 @@
  | Bana göre tiyatro ile ilgilenmek dünyadan ortasında durmak demekti. | Для меня, работа в театре значила целый мир (?)                                 |
  | Her şeyimi mesleğime verdim.                                        | Своей профессии я отдала всю себя.                                              |
  | Yaşamak benim için her zaman mücadele etmek oldu.                   | Жизнь для меня всегда была борьбой.                                             |
+
+** Dinleme ödevi
+*** Diyalog:
+
+   D: Barda o gün kim vardı? Hatırlaman gerekle, katil de o gece bardayda cünkü.
+   A: Tamam, düşünüyorum. Barda benimle beraber iki kişi oturuyordu. Yanımda oturan adam çok sinirliydi.
+   D: Çok ilginç! Barda oturan öteki adam peki?  O ne yapıyordu?
+   A: Dikkatçeken birşey yapmadı, ama arkamasada içkiyi fazla içenler vardı.
+   D: Içenlerin arasında kırımızı elbiseyi giyen bir kadın var mıydı?
+   A: Hayır, öyle birini görmedim.
+   D: Çok garip! Çünkü güvenlik kamerasında onunla beraber görünüyorsun.
+   A: Allah'ın belası polisler! Sevdiğim kadını sizin vermeyeceğim! Sevenler asla vazgeçmez!
+
+*** Sorular:
+    
+   1) Polis neden adamı sorguluyor?
+      Çünkü barda bir ciyanet oldu.
+   2) Dikkatçeken kadın ne renk elbise giydi?
+      Kırımızı elbise giydi.
+   3) Şu adam polislere doğruyu söyledi mi?
+      Hayır, yalan soÿledi.
