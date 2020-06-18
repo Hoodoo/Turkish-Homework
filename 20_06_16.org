@@ -37,7 +37,7 @@
 | Самый большой агрегатор в России - Яндекс.                                                             | Rusya'daki en büyük taksi toplayıcısı Yandex'dir.                                                                  |
 | Сейчас они работают над созданием беспилотного автомобиля.                                             | Şimdi sürücüsüz bir araba geliştiriyorlar.                                                                         |
 
-** Normal bir günüm1. Сейчас в Москве большинство людей работает из дома, поэтому нормальный распорядок дня изменился.
+** Normal bir günüm
 | Сейчас, в Москве многие люди работают из дома, поэтому нормальный день выглядит по-другому. | Şu anda, Moskova'daki insanlar evden çok çalışıyor, bu yüzden normal gün farklı görünüyor. |
 | Я встаю около девяти часов.                                                                 | Sabah 9 civarı uyanıyorum ve duş alırım ve  dişlerimi fırçalarım.                          |
 | После этого, я пью чашку кофе с сигаретой.                                                  | Şundan sonra, ben bir fincan kahve ve sigara içerim.                                       |
