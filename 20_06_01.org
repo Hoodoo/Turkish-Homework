@@ -346,7 +346,7 @@
    | Sonraki yıllarda Amerika Birleşik Devletleri ve                     | В следующие годы, я изучала и преподавала актёрское мастерство в Великобритании |
    | İngilitere'de eğitim ve oyunculuk üzerine çalışmalar yaptım.        | и США.                                                                          |
    |                                                                     |                                                                                 |
-   | Bugüne kadar yüzden fazla oyunda yer aldım.                         | К сегодняшнему дню, я играла роли более чем в ста пьесах.                       |
+   | Bugüne kadar yüzden fazla oyunda yer ADLİM.                         | К сегодняшнему дню, я играла роли более чем в ста пьесах.                       |
    | Bu oyunlarda değişik acılar, heyecanlar, ve aşklar yaşadım.         | Благодаря этим пьесам, я переживала боль, вдохновение и любовь.                 |
    | Zaman zaman sinema filmlerinde de rol aldım.                        | Иногда, я также снималась и в кино.                                             |
    | Sinema oyuncusu olarak üç kez "Altın Portakal" ödülü aldım.         | За роли в кино, я получила три награды "Золотой апельсин".                      |
@@ -359,3 +359,12 @@
 
 *** Dinleme ödevi
 **** TTT #54
+
+Farklı
+Değişik
+ödül
+olarak
+
+
+47 упр. 10 — своими словами
+И написать о таксистах в России
