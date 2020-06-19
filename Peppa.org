@@ -7,7 +7,7 @@
 TR: https://youtu.be/2gCE5FqEOjs
 EN: https://youtu.be/uYekCQzEcto?t=18
    
-Anlatan: Peppa ve George bugün çok heyecanlı: tatile çikiyorlar
+Anlatan: Peppa ve George bugün çok heyecanlı: tatile çikiyorlar\\
 Peppa: Babam nerede?
 Anne Domuz: Baban gizli bir sürpriz getiriyor!
 Peppa: Bu da ne?
