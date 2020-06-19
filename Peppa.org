@@ -8,90 +8,90 @@ TR: https://youtu.be/2gCE5FqEOjs
 EN: https://youtu.be/uYekCQzEcto?t=18
    
 Anlatan: Peppa ve George bugün çok heyecanlı: tatile çikiyorlar\\
-Peppa: Babam nerede?
-Anne Domuz: Baban gizli bir sürpriz getiriyor!
-Peppa: Bu da ne?
-Baba Domuz: Bu bir karavan.
-Anne Domuz: Tatilimiz için ödünc aldık.
-Çocuklar: Uuuu!
-Baba Domuz: Bu karavanda herşey var! Bu düğmeyle lavabo çalışıyor.
-Çocuklar: Yaşasın!
-Baba Domuz: Bu düğmeyle da televizyon çalışıyor.
-Anne Domuz: Bu düğmeyı ne işe yarıyor peki?
-Baba Domuz: Emin değilim! Öğrenene kadar basmasak iyi olur?
-Anne Domuz: Herkes tatile çikmaya hazır mı?
-Herkes: Evet, Anne domuz!
-Anne Domuz: O zaman gidelim!
-Geogrge: Karavanımızla tatile gidiyoruz!
-(Herkes güler)
-Baba Domuz: Hmm. Bu harıta biraz karışık.
-Peppa: Baba! Kaybolman istemiyoruz!
-Baba Domuz: Merak etme Peppa! Ben harıta okumakta uzman!
-Baba Domuz: Oh! Çok tuhaf!
-Anne Domuz: Yoksa kayıp mı olduk?
-Baba Domuz: Evet.
-Anlatan: Bu Büyükbaba Köpek ve Köpek Deni.
-Deni: Merhaba Peppa!
-Peppa: Merhaba Deni! Biz kaybolduk!
-Büyükbaba Köpek: Vuf! Kayıp mı? Uydu navigasyonunuz bozuk mu?
-Baba Domuz: Uydu navigasyonumuz?
-Büyükbaba Köpek: Te otuz iki yuz model karavan kullanıyorsunuz, değil mi? Uydu navigasyonu standarttır.
-Bilgisayar: Geleceğin arabasına hoş geldiniz!
-Baba Domuz: Aha! Demek bunu düğme bunun içinmiş!
-Bilgisayar: Bugün nereye gidiyoruz?
-Peppa: Karavan konuşuyor, şuna bak!
-Büyükbaba Köpek: Çok zeki, değil mi? Bilgisayar sesi yolu bulmanıza yardım eder.
-Peppa: Ama, nereye gitmek istedimiz nereden biliyor ki?
-Büyükbaba Köpek: Siz söyluyorsunuz.
-Peppa: Merhaba, bayan Karavan!
-Bilgisayar: Meraba!
-Peppa: Biz tatile gidiyoruz, bize yolu gösterebilir misiniz?
-Bilgisayar: Bu yolda tüm düz ilerleyin.
-Anne Domuz: Yardımınız için çok teşekkür ederiz Büyükbaba Köpek!
-Büyükbaba Köpek: Rica ederim! Iyi tatiller!
-Herkes: Karavanımızla tatile gidiyoruz!
-Bilgisayar: Tehlike! Thelike! Benzin azaldı!
-Peppa: Benzin nedir?
-Baba Domuz: Benizn motorun düzgün çalışmasını sağlar.
-Peppa: Peki benzinimiz biter mi baba?
-Baba Domuz: Hayır! Bu uyarılar bize bolca zaman tanır.
-Bilgisayar: Benzin bitt!
-(Karavan duruyor)
-Anne Domuz: ???
-Baba Domuz: Neyse ki, yedek benzin bidonumuz var!
-Anne Domuz: Ah, bu çok iyi Baba Domuz!
-Baba Domuz: Şımdi benzini motora boşaltıyoruz ve... Oh.
-Anne Domuz: Ne oldu?
-Baba Domuz: Burada hiç bir şey yok, burası boş, motor gitmiş!
-Anlatan: Anne Koyun ve Koyun Suzi geldi
-Peppa: Merhaba Suzi!
-Suzi: Merhaba Peppa!
-Peppa: Motorumuz kayboldu!
-Anne Koyun: Motorunuz mu kayboldu?
-Baba Domuz: Evet. Tamamen ortadan kayboldu.
-Anne Koyun: Yardım etmek isterim ama motorlardan hiç anlamam. ??? kounşabilirim ama bu biraz motora benziyor değil mi?
-Baba Domuz: Aaah evet. İyi tespit Anne Koyun! 
-Anlatan: Karavanın motoru arka taraftan.
-Baba Domuz: ??? bu kadar benzinen yeter. Teşekkür ederim Anne Koyun!
-Anne Koyun: Riça ederim, iyi tatiller!
-Peppa: Daha çok yolumuz var mı?
-Bilgisayar: Bir sonra ki tepeye çıkın. Hedefinize ulaştınız.
-Herkes: Yaşasın!
-Baba Domuz: Yatma vakti!
-Peppa: Peki nerede yatıcaz?
-Baba Domuz: Anne Domuzla ben bu yatakta yatıcaz.
-(Yatak görünür)
-Çocuklar: Aaah!
-Anne Domuz: Siz ikiniz de üst katta.
-Peppa: Ama burada bi üst kat yok ki?
-Baba Domuz: Ho ho ho ho! Bak şimdi!
-Anlatan: Karavanın tavanı yükseliyor.
-Peppa: Karavan bizim küçücük evimiz gibi!
-Anne Domuz: Tatilde ??? bizim küçük evimiz zaten!
-(Herkes güler)
+Peppa: Babam nerede?\\
+Anne Domuz: Baban gizli bir sürpriz getiriyor!\\
+Peppa: Bu da ne?\\
+Baba Domuz: Bu bir karavan.\\
+Anne Domuz: Tatilimiz için ödünc aldık.\\
+Çocuklar: Uuuu!\\
+Baba Domuz: Bu karavanda herşey var! Bu düğmeyle lavabo çalışıyor.\\
+Çocuklar: Yaşasın!\\
+Baba Domuz: Bu düğmeyle da televizyon çalışıyor.\\
+Anne Domuz: Bu düğmeyı ne işe yarıyor peki?\\
+Baba Domuz: Emin değilim! Öğrenene kadar basmasak iyi olur?\\
+Anne Domuz: Herkes tatile çikmaya hazır mı?\\
+Herkes: Evet, Anne domuz!\\
+Anne Domuz: O zaman gidelim!\\
+Geogrge: Karavanımızla tatile gidiyoruz!\\
+(Herkes güler)\\
+Baba Domuz: Hmm. Bu harıta biraz karışık.\\
+Peppa: Baba! Kaybolman istemiyoruz!\\
+Baba Domuz: Merak etme Peppa! Ben harıta okumakta uzman!\\
+Baba Domuz: Oh! Çok tuhaf!\\
+Anne Domuz: Yoksa kayıp mı olduk?\\
+Baba Domuz: Evet.\\
+Anlatan: Bu Büyükbaba Köpek ve Köpek Deni.\\
+Deni: Merhaba Peppa!\\
+Peppa: Merhaba Deni! Biz kaybolduk!\\
+Büyükbaba Köpek: Vuf! Kayıp mı? Uydu navigasyonunuz bozuk mu?\\
+Baba Domuz: Uydu navigasyonumuz?\\
+Büyükbaba Köpek: Te otuz iki yuz model karavan kullanıyorsunuz, değil mi? Uydu navigasyonu standarttır.\\
+Bilgisayar: Geleceğin arabasına hoş geldiniz!\\
+Baba Domuz: Aha! Demek bunu düğme bunun içinmiş!\\
+Bilgisayar: Bugün nereye gidiyoruz?\\
+Peppa: Karavan konuşuyor, şuna bak!\\
+Büyükbaba Köpek: Çok zeki, değil mi? Bilgisayar sesi yolu bulmanıza yardım eder.\\
+Peppa: Ama, nereye gitmek istedimiz nereden biliyor ki?\\
+Büyükbaba Köpek: Siz söyluyorsunuz.\\
+Peppa: Merhaba, bayan Karavan!\\
+Bilgisayar: Meraba!\\
+Peppa: Biz tatile gidiyoruz, bize yolu gösterebilir misiniz?\\
+Bilgisayar: Bu yolda tüm düz ilerleyin.\\
+Anne Domuz: Yardımınız için çok teşekkür ederiz Büyükbaba Köpek!\\
+Büyükbaba Köpek: Rica ederim! Iyi tatiller!\\
+Herkes: Karavanımızla tatile gidiyoruz!\\
+Bilgisayar: Tehlike! Thelike! Benzin azaldı!\\
+Peppa: Benzin nedir?\\
+Baba Domuz: Benizn motorun düzgün çalışmasını sağlar.\\
+Peppa: Peki benzinimiz biter mi baba?\\
+Baba Domuz: Hayır! Bu uyarılar bize bolca zaman tanır.\\
+Bilgisayar: Benzin bitt!\\
+(Karavan duruyor)\\
+Anne Domuz: ???\\
+Baba Domuz: Neyse ki, yedek benzin bidonumuz var!\\
+Anne Domuz: Ah, bu çok iyi Baba Domuz!\\
+Baba Domuz: Şımdi benzini motora boşaltıyoruz ve... Oh.\\
+Anne Domuz: Ne oldu?\\
+Baba Domuz: Burada hiç bir şey yok, burası boş, motor gitmiş!\\
+Anlatan: Anne Koyun ve Koyun Suzi geldi\\
+Peppa: Merhaba Suzi!\\
+Suzi: Merhaba Peppa!\\
+Peppa: Motorumuz kayboldu!\\
+Anne Koyun: Motorunuz mu kayboldu?\\
+Baba Domuz: Evet. Tamamen ortadan kayboldu.\\
+Anne Koyun: Yardım etmek isterim ama motorlardan hiç anlamam. ??? kounşabilirim ama bu biraz motora benziyor değil mi?\\
+Baba Domuz: Aaah evet. İyi tespit Anne Koyun! \\
+Anlatan: Karavanın motoru arka taraftan.\\
+Baba Domuz: ??? bu kadar benzinen yeter. Teşekkür ederim Anne Koyun!\\
+Anne Koyun: Riça ederim, iyi tatiller!\\
+Peppa: Daha çok yolumuz var mı?\\
+Bilgisayar: Bir sonra ki tepeye çıkın. Hedefinize ulaştınız.\\
+Herkes: Yaşasın!\\
+Baba Domuz: Yatma vakti!\\
+Peppa: Peki nerede yatıcaz?\\
+Baba Domuz: Anne Domuzla ben bu yatakta yatıcaz.\\
+(Yatak görünür)\\
+Çocuklar: Aaah!\\
+Anne Domuz: Siz ikiniz de üst katta.\\
+Peppa: Ama burada bi üst kat yok ki?\\
+Baba Domuz: Ho ho ho ho! Bak şimdi!\\
+Anlatan: Karavanın tavanı yükseliyor.\\
+Peppa: Karavan bizim küçücük evimiz gibi!\\
+Anne Domuz: Tatilde ??? bizim küçük evimiz zaten!\\
+(Herkes güler)\\
 
 *** Sorular
-https://youtu.be/2gCE5FqEOjs?t=163 — Anne Domuz ne diyor?
-https://youtu.be/2gCE5FqEOjs?t=200 — Anne Koyun ne diyor?
-https://youtu.be/2gCE5FqEOjs?t=215 — Baba Domuz ne diyor?
-https://youtu.be/2gCE5FqEOjs?t=263 — Anne Domuz ne diyor?
+https://youtu.be/2gCE5FqEOjs?t=163 — Anne Domuz ne diyor?\\
+https://youtu.be/2gCE5FqEOjs?t=200 — Anne Koyun ne diyor?\\
+https://youtu.be/2gCE5FqEOjs?t=215 — Baba Domuz ne diyor?\\
+https://youtu.be/2gCE5FqEOjs?t=263 — Anne Domuz ne diyor?\\
